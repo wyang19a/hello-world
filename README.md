@@ -1,2 +1,3 @@
 # hello-world
-learning how to create repository
+
+Learning how to use GitHub!
